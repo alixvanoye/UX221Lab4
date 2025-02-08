@@ -27,17 +27,22 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/physical-exercise/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/wellness-practices/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/blog/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
         </loc>
     </url>
     <url>
